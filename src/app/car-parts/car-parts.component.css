@@ -1,0 +1,16 @@
+.description {
+  color: #444;
+  font-size: small;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
